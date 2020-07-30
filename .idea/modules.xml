@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../automation_framework_demo/.idea/automation_framework_demo.iml" filepath="$PROJECT_DIR$/../automation_framework_demo/.idea/automation_framework_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newProject.iml" filepath="$PROJECT_DIR$/.idea/newProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytestDemo/.idea/pytestDemo.iml" filepath="$PROJECT_DIR$/../pytestDemo/.idea/pytestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytestDrum/.idea/pytestDrum.iml" filepath="$PROJECT_DIR$/../pytestDrum/.idea/pytestDrum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytestUI/.idea/pytestUI.iml" filepath="$PROJECT_DIR$/../pytestUI/.idea/pytestUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studypython/.idea/studypython.iml" filepath="$PROJECT_DIR$/../studypython/.idea/studypython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unittestDemo/.idea/unittestDemo.iml" filepath="$PROJECT_DIR$/../unittestDemo/.idea/unittestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
